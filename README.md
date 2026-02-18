@@ -1,7 +1,7 @@
-# Hi there! I'm Kanishk 👋 
+# <p align="center">✨ KANISHK SAHOO ✨</p>
 
-<p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&width=435&lines=AIML+Engineering+Student;Coding+Freak;Arduino+%26+IoT+Enthusiast;Building+with+C%2B%2B+and+Python">
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=35&pause=1000&color=00F2FF&center=true&vCenter=true&width=700&lines=DEVELOPER+BY+PASSION;AIML+ENGINEER+IN+THE+MAKING;CODING+FREAK+%F0%9F%91%BE;ARDUINO+%26+IOT+EXPLORER">
 </p>
 
 ---
