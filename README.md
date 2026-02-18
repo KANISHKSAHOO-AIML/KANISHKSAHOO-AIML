@@ -1,7 +1,9 @@
-# <p align="center">✨ KANISHK SAHOO ✨</p>
+# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Kanishk Sahoo!
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=35&pause=1000&color=00F2FF&center=true&vCenter=true&width=700&lines=DEVELOPER+BY+PASSION;AIML+ENGINEER+IN+THE+MAKING;CODING+FREAK+%F0%9F%91%BE;ARDUINO+%26+IOT+EXPLORER">
+<p align="left">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=39FF14&width=550&lines=root%40kanishk%3A~%24+whoami;First+Year+AIML+Student;Building+Future+with+AI;Exploring+the+World+of+IoT">
+  </a>
 </p>
 
 ---
