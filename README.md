@@ -1,11 +1,7 @@
 # <p align="center">━━━━━━━ ⚡ 𝗞𝗔𝗡𝗜𝗦𝗛𝗞 𝗦𝗔𝗛𝗢𝗢 ⚡ ━━━━━━━</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=800&size=34&pause=1000&color=FF0000&center=true&vCenter=true&width=800&lines=CORE+SYSTEM:+AIML+ENGINEER;%E2%96%88%E2%96%88%E2%96%88%E2%96%88+CODING+FREAK+%E2%96%88%E2%96%88%E2%96%88%E2%96%88;HARDWARE+HACKER;IOT+PROJECTS+EXECUTED">
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/CMRIT-AIML_DEPT-red?style=for-the-badge&logo=cpu&logoColor=white" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=800&size=34&pause=1000&color=FF0000&center=true&vCenter=true&width=800&lines=CORE+SYSTEM:+AIML+ENGINEER;%E2%96%88%E2%96%88%E2%96%88%E2%96%88+AIML+ENTHUSIAST+%E2%96%88%E2%96%88%E2%96%88%E2%96%88;HARDWARE+HACKER;IOT+PROJECTS+EXECUTED">
 </p>
 
 ---
