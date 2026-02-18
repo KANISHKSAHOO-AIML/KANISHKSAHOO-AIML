@@ -1,7 +1,7 @@
 # <p align="center">━━━━━━━ ⚡ 𝗞𝗔𝗡𝗜𝗦𝗛𝗞 𝗦𝗔𝗛𝗢𝗢 ⚡ ━━━━━━━</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=800&size=34&pause=1000&color=FF0000&center=true&vCenter=true&width=800&lines=CORE+SYSTEM:+AIML+ENGINEER;████+AIML+ENTHUSIAST+████;ARDUINO+%26+IOT+DEVELOPER;PROJECTS+IN+PROGRESS">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=800&size=34&pause=1000&color=FF0000&center=true&vCenter=true&width=800&lines=CORE+SYSTEM:+AIML+DEPARTMENT;████+AIML+ENTHUSIAST+████;ARDUINO+%26+IOT+DEVELOPER;PROJECTS+IN+PROGRESS">
 </p>
 ---
 
