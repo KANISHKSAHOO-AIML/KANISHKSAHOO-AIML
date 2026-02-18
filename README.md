@@ -7,10 +7,10 @@
 ---
 
 ### 🚀 About Me
-- 🎓 First-year **AI & Machine Learning** student at **CMRIT**.
-- 💻 I’m a passionate coder—honestly, a bit of a **coding freak**.
+- 🎓 **First-year AIML Student** at **CMRIT**, Bengaluru.
+- 💻 I identify as a **coding freak** and love building software.
 - 🛠️ Currently working on: **Milk Quality Monitoring System** and **Automated Medication Dispenser**.
-- 🎮 In my free time, you'll find me **PC Gaming** or tinkering with **Arduino**.
+- 🕹️ When I'm not coding, I'm **PC Gaming** or tinkering with **Arduino**.
 
 ---
 
