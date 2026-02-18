@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://github.com/KANISHKSAHOO-AIML/KANISHKSAHOO-AIML/blob/main/WhatsApp%20Image%202026-02-10%20at%2014.40.04.jpeg" width="180" style="border-radius: 50%; border: 4px solid #FF0000; box-shadow: 0 0 20px #FF0000;" />
+</p>
 # <p align="center">━━━━━━━ ⚡ 𝗞𝗔𝗡𝗜𝗦𝗛𝗞 𝗦𝗔𝗛𝗢𝗢 ⚡ ━━━━━━━</p>
 
 <p align="center">
