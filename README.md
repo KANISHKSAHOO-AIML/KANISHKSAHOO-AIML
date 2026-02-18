@@ -25,9 +25,9 @@
 
 ### 📊 My GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KANISHKSAHOO-AIML&show_icons=true&theme=tokyonight&rank_icon=github" alt="My Stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=KANISHKSAHOO-AIML&show_icons=true&theme=vision-glow" alt="My Stats" />
   <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KANISHKSAHOO-AIML&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=KANISHKSAHOO-AIML&layout=compact&theme=vision-glow" alt="Top Languages" />
 </p>
 
 ---
