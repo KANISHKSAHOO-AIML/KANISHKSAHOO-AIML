@@ -1,4 +1,4 @@
-# Hi there! I'm Kanishk Sahoo 👋 
+# Hi there! I'm Kanishk 👋 
 
 <p align="left">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&width=435&lines=AIML+Engineering+Student;Coding+Freak;Arduino+%26+IoT+Enthusiast;Building+with+C%2B%2B+and+Python">
@@ -23,14 +23,16 @@
 
 ---
 
-### 📊 My GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=KANISHKSAHOO-AIML&show_icons=true&theme=vision-glow" alt="My Stats" />
-  <br><br>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=KANISHKSAHOO-AIML&layout=compact&theme=vision-glow" alt="Top Languages" />
-</p>
+### 📊 GitHub Analytics
+| My Stats | Most Used Languages |
+| :---: | :---: |
+| <img src="https://github-readme-stats.vercel.app/api?username=KANISHKSAHOO-AIML&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=10" width="400" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KANISHKSAHOO-AIML&layout=compact&theme=tokyonight&border_radius=10" width="400" /> |
 
 ---
 
 ### 🐍 My Contribution Snake
-![Snake Animation](https://github.com/KANISHKSAHOO-AIML/KANISHKSAHOO-AIML/blob/output/github-contribution-grid-snake.svg)
+<div align="center">
+  <img src="https://github.com/KANISHKSAHOO-AIML/KANISHKSAHOO-AIML/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+</div>
+
+<br>
